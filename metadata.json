@@ -1,0 +1,8 @@
+{
+  "name": "GrammarMind AI",
+  "description": "AI-powered Grammar and Spelling Correction tool",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
