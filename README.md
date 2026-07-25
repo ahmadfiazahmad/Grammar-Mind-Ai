@@ -1,65 +1,81 @@
-GrammarMind AI
+# GrammarMind AI
 
 GrammarMind AI is an AI-powered grammar and spelling correction application that improves the grammatical accuracy, spelling, punctuation, and capitalization of user-provided text while preserving its original meaning, tone, writing style, formatting, and structure.
 
 It is designed for students, professionals, content creators, researchers, developers, and anyone who wants fast, high-quality grammar correction without rewriting or changing the intent of their writing.
 
-Live Demo
+---
 
-Deployed App: GrammarMind AI
-https://grammarmind-ai.ai.studio/
+# 🚀 Live Demo
 
-What Problem Does It Solve?
+**Deployed App:** https://grammarmind-ai.ai.studio/
 
-Many people write emails, reports, assignments, blog posts, documentation, and social media content containing grammar mistakes, spelling errors, or punctuation issues. Existing writing assistants often rewrite sentences, change the author's tone, or alter the intended meaning.
+---
 
-GrammarMind AI solves this problem by:
+# 📌 What Problem Does It Solve?
 
-accepting text directly from the user
-analyzing grammar and spelling using Google's Gemini AI
-correcting grammar, spelling, punctuation, and capitalization
-preserving the original meaning and writing style
-returning only the corrected version without unnecessary rewriting
+Many people write emails, reports, assignments, blog posts, documentation, and social media content that contain grammar mistakes, spelling errors, or punctuation issues. Many writing assistants rewrite sentences, change the author's tone, or alter the intended meaning.
 
-This allows users to improve writing quality while keeping complete control over their original content.
+**GrammarMind AI** solves this problem by:
 
-Features
-AI-powered grammar correction
-Accurate spelling correction
-Automatic punctuation improvement
-Capitalization correction
-Preserves original meaning
-Preserves writing style and tone
-Preserves formatting and paragraph structure
-Fast AI responses using Gemini
-Clean and modern user interface
-Copy corrected text with one click
-Character counter
-Word counter
-Responsive design for desktop and mobile
-Smooth animations and premium glassmorphism UI
-AI Feature
+- Accepting text directly from the user.
+- Analyzing grammar and spelling using Google's Gemini AI.
+- Correcting grammar, spelling, punctuation, and capitalization.
+- Preserving the original meaning and writing style.
+- Returning only the corrected version without unnecessary rewriting.
 
-GrammarMind AI uses Google Gemini to intelligently improve text quality while ensuring the author's original voice remains unchanged.
+This allows users to improve the quality of their writing while maintaining complete control over their original content.
 
-Unlike traditional rewriting tools, GrammarMind AI focuses only on language correctness rather than rewriting or expanding content.
+---
 
-How the AI Works
+# ✨ Features
 
-The application:
+- AI-powered grammar correction
+- Accurate spelling correction
+- Automatic punctuation improvement
+- Capitalization correction
+- Preserves original meaning
+- Preserves writing style and tone
+- Preserves formatting and paragraph structure
+- Fast AI responses using Google Gemini
+- Clean and modern user interface
+- Copy corrected text with one click
+- Character counter
+- Word counter
+- Responsive design for desktop and mobile
+- Smooth animations with a premium glassmorphism UI
 
-Receives text from the user.
-Sends the text to the Gemini model.
-Uses a strict system prompt instructing the AI to:
-correct grammar
-fix spelling
-improve punctuation
-correct capitalization
-preserve meaning
-preserve formatting
-preserve writing style
-Returns only the corrected text.
-Full System Prompt
+---
+
+# 🤖 AI Feature
+
+GrammarMind AI uses **Google Gemini** to intelligently improve text quality while ensuring the author's original voice remains unchanged.
+
+Unlike traditional writing assistants, GrammarMind AI focuses solely on language correctness rather than rewriting, expanding, or changing the user's content.
+
+---
+
+# ⚙️ How the AI Works
+
+The application follows a simple workflow:
+
+1. Receives text from the user.
+2. Sends the text to the Gemini model.
+3. Uses a strict system prompt that instructs the AI to:
+   - Correct grammar
+   - Fix spelling
+   - Improve punctuation
+   - Correct capitalization
+   - Preserve the original meaning
+   - Preserve formatting
+   - Preserve the original writing style
+4. Returns only the corrected text.
+
+---
+
+# 📝 Full System Prompt
+
+```text
 You are an expert English grammar and spelling correction engine.
 
 Correct grammar, spelling, punctuation, capitalization, and sentence structure.
@@ -91,36 +107,53 @@ Do NOT add extra sentences.
 Do NOT remove information.
 
 Return ONLY the corrected text.
-Tools, Services, and Models Used
-Development
-Google AI Studio
-HTML
-CSS
-JavaScript
-Artificial Intelligence
-Google Gemini API
-Model
-Gemini 3.1 Pro Preview 
+```
 
-Use Cases
-Academic assignments
-Professional emails
-Reports
-Blog articles
-Documentation
-Social media posts
-Resumes
-Cover letters
-Personal writing
-General English improvement
-Future Improvements
-Multi-language grammar correction
-Grammar explanation mode
-Side-by-side comparison view
-Download corrected text
-Writing readability score
-Tone detection
-Grammar history
-Dark/Light theme switch
-Browser extension
-Microsoft Word integration
+---
+
+# 🛠️ Tools, Services, and Models Used
+
+## Development
+
+- Google AI Studio
+- HTML
+- CSS
+- JavaScript
+
+## Artificial Intelligence
+
+- Google Gemini API
+
+## Model
+
+- Gemini 2.5 Pro Preview
+
+---
+
+# 💡 Use Cases
+
+- Academic assignments
+- Professional emails
+- Business reports
+- Blog articles
+- Technical documentation
+- Social media posts
+- Resumes
+- Cover letters
+- Personal writing
+- General English improvement
+
+---
+
+# 🚀 Future Improvements
+
+- Multi-language grammar correction
+- Grammar explanation mode
+- Side-by-side comparison view
+- Download corrected text
+- Writing readability score
+- Tone detection
+- Grammar history
+- Dark/Light theme switch
+- Browser extension
+- Microsoft Word integration
