@@ -145,6 +145,13 @@ Return ONLY the corrected text.
 
 ---
 
+#ScreenShots
+<img width="1920" height="1080" alt="Main_Screen" src="https://github.com/user-attachments/assets/5ed8fa6a-bdfb-4be0-822f-af9b7d2b66aa" />
+
+<img width="1920" height="1080" alt="Results" src="https://github.com/user-attachments/assets/f2b3c06b-c9d7-45d8-aaf8-53e6b998f7d2" />
+
+
+
 # 🚀 Future Improvements
 
 - Multi-language grammar correction
